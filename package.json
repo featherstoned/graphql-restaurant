@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "expressgraphql0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jrw@mit.edu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphql-http": "^1.21.0"
+  }
+}
